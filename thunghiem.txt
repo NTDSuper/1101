@@ -1,0 +1,23 @@
+7
+XD1
+Nguyen Van A
+6 7 8
+XD2
+Nguyen Van B
+7 8 5
+XD3
+Tran Thi C
+8 9 9
+XD4
+Nguyen Phuc D
+7 10 9
+XD5
+Tran Vu A
+9 9 9
+XD6
+Nguyen Xuan A
+10 9 9
+XD7
+Bui Van X
+10 9 7
+

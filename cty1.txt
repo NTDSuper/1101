@@ -1,0 +1,9 @@
+e123
+nguyen van a
+400 2 1
+e124
+nguyen thi b
+200 3 2
+e100
+tran thi b
+250 2 3
